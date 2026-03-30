@@ -9,6 +9,5 @@
   "homepage": "https://docs.browserless.io/rest-apis/intro",
   "repository": "https://github.com/browserless/claude-plugin",
   "license": "SSPL-1.0",
-  "keywords": ["browserless", "scraping", "screenshot", "pdf", "browser-automation"],
-  "hooks": "./hooks/hooks.json"
+  "keywords": ["browserless", "scraping", "screenshot", "pdf", "browser-automation"]
 }
