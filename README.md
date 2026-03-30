@@ -4,11 +4,39 @@ A Claude Code plugin that gives Claude direct access to the [Browserless.io](htt
 
 ## Installation
 
-Clone the repo and point Claude Code at the plugin directory:
+### Option 1: Local Installation (Project)
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/adrianR84/browserless-claude-plugin.git
+   cd browserless-claude-plugin
+   ```
+
+2. Add the local marketplace:
+
+   ```
+   /plugin marketplace add .
+   ```
+
+3. Install the plugin:
+
+   ```
+   /plugin install browserless/browserless-claude-plugin
+   ```
+
+### Option 2: From GitHub
 
 ```bash
-git clone https://github.com/browserless/claude-plugin.git
-cd claude-plugin
+/plugin marketplace add adrianR84/browserless-claude-plugin
+/plugin install browserless/browserless-claude-plugin
+```
+
+### Option 3: Session-Only (No Install)
+
+```bash
+git clone https://github.com/adrianR84/browserless-claude-plugin.git
+cd browserless-claude-plugin
 claude --plugin-dir .
 ```
 

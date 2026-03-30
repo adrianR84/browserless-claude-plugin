@@ -1,0 +1,30 @@
+{
+  "name": "browserless-claude-plugin",
+  "owner": {
+    "name": "adrianR84"
+  },
+  "description": "Browserless.io REST API tools for web scraping, screenshots, PDFs, search, and more",
+  "plugins": [
+    {
+      "name": "browserless",
+      "source": "./",
+      "description": "Browserless.io REST API tools for web scraping, screenshots, PDFs, search, and more",
+      "author": {
+        "name": "browserless.io",
+        "url": "https://www.browserless.io"
+      },
+      "category": "web-tools",
+      "repository": "https://github.com/adrianR84/browserless-claude-plugin",
+      "keywords": [
+        "browserless",
+        "scraping",
+        "screenshot",
+        "pdf",
+        "browser-automation",
+        "web-scraping",
+        "search"
+      ],
+      "license": "SSPL-1.0"
+    }
+  ]
+}
