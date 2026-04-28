@@ -24,7 +24,8 @@
         "web-scraping",
         "search"
       ],
-      "license": "SSPL-1.0"
+      "license": "SSPL-1.0",
+	  "version": "1.0.1"
     }
   ]
 }
