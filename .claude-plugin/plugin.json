@@ -1,7 +1,7 @@
 {
   "name": "browserless",
   "description": "Browserless.io REST API tools for web scraping, screenshots, PDFs, search, and more",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": {
     "name": "browserless.io",
     "url": "https://www.browserless.io"
